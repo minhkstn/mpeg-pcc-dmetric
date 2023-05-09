@@ -1,0 +1,7 @@
+/home/shared2/spirit/mpeg-pcc-dmetric/build/Release/CMakeFiles/install/strip.dir
+/home/shared2/spirit/mpeg-pcc-dmetric/build/Release/CMakeFiles/install/local.dir
+/home/shared2/spirit/mpeg-pcc-dmetric/build/Release/CMakeFiles/edit_cache.dir
+/home/shared2/spirit/mpeg-pcc-dmetric/build/Release/CMakeFiles/rebuild_cache.dir
+/home/shared2/spirit/mpeg-pcc-dmetric/build/Release/CMakeFiles/install.dir
+/home/shared2/spirit/mpeg-pcc-dmetric/build/Release/CMakeFiles/pc_error.dir
+/home/shared2/spirit/mpeg-pcc-dmetric/build/Release/CMakeFiles/list_install_components.dir

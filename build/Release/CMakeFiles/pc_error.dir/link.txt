@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp -std=c++11 CMakeFiles/pc_error.dir/home/shared2/spirit/mpeg-pcc-dmetric/dependencies/program-options-lite/program_options_lite.cpp.o CMakeFiles/pc_error.dir/clockcom.cpp.o CMakeFiles/pc_error.dir/main.cpp.o CMakeFiles/pc_error.dir/pcc_distortion.cpp.o CMakeFiles/pc_error.dir/pcc_processing.cpp.o -o pc_error 
